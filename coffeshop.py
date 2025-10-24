@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Going to make simulation for a coffee shop using python and SimPy library
 import simpy
 import random
@@ -12,3 +13,6 @@ COFFEE_MAKING_TIME = (5, 8)
 wait_times = []
 queue_lengths_order_taker = []
 queue_lengths_coffee_maker = []
+=======
+#Going to make simulation for a coffee shop using python and SimPy library
+>>>>>>> 832b985faa75baf851cc98f9ad4b3796fa3ba249
